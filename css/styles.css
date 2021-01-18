@@ -1,0 +1,89 @@
+.Character-Basics {
+
+background-color: red;
+height: 15rem;
+width: auto;
+position: relative;
+
+
+
+}
+.Character-Name {
+
+position: absolute;
+top: 1rem;
+height: 12rem;
+width: 30rem;
+background-color: blue;
+
+
+}
+.Character-Name-Title {
+
+  position: absolute;
+  top: 8rem;
+  height: 2rem;
+  width: 30rem;
+  background-color: green;
+  margin: 0;
+
+
+}
+.Character-Name-Title-Generated {
+
+  position: absolute;
+  top: 0;
+  left: 20rem;
+  height: 2rem;
+  width: 10rem;
+  background-color: Yellow;
+
+}
+
+.Character-Details {
+
+
+}
+.Character-Class {
+
+
+
+}
+.Character-Background {
+
+
+
+}
+.Player-Name {
+
+
+}
+
+.Character-Race {
+
+
+
+}
+
+.Character-Allignment {
+
+
+}
+
+.Character-Experiencepoints {
+
+
+}
+
+.Under-Titles {
+
+
+
+}
+
+body {
+background-color: grey;
+
+
+
+}
